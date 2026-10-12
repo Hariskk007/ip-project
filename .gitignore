@@ -1,0 +1,9 @@
+.venv
+main.zip
+project.zip
+database_control.py
+terminal.auth.py
+build
+.nicegui
+dist
+project
